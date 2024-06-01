@@ -23,7 +23,7 @@
 }
 
 .escola-imagem{
-    width: 25%;
+    width: 50%;
 }
 
 .escola{
@@ -37,9 +37,12 @@
 
 .escola-div-conteudo{
     width: 35%;
+    align-items: center;
 }
+
 .escola-titulo{
     padding: 24px 0;
+    
 }
 .estudante{
     background-image:linear-gradient(#64c095,#64c095);
