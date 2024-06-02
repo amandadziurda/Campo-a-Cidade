@@ -67,6 +67,12 @@
     padding: 24px 0;
 }
 
+.estudante-div-conteudo{
+    justify-content: center;
+    text-align: center;
+    padding: 24px 0;
+}
+
 .estudante-titulo{
     text-align: center;
 }
