@@ -62,6 +62,7 @@
 }
 
 .estudante-div{
+    justify-content: center;
     text-align: center;
     padding: 120px 0;
 }
