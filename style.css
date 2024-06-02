@@ -100,5 +100,7 @@
 }
 
 .estudante-div{
+    justify-content: center;
     text-align: center;
     padding: 24px 0;
+}
