@@ -64,6 +64,7 @@
 .estudante-div{
     justify-content: center;
     text-align: center;
+    display: flex;
     padding: 24px 0;
     width: 70%;
 }
