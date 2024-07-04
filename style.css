@@ -103,4 +103,7 @@
     width: 240px;
     padding: 48px 0;
 }
-
+.estudante-todos{
+    justify-content: center;  
+    text-align: center;  
+}
