@@ -50,9 +50,11 @@
 }   
 
 .estudante{
+    align-items: center;
     padding: 24px 0;
 }
 .estudante-imagem{
+    align-items: center;
     width: 24px;
 }
 
