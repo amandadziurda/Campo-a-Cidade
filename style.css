@@ -33,15 +33,18 @@
     justify-content: center;
     align-items: center;
     padding: 24px 0;
+    font-size: 26px;
 }
 
 .escola-div-conteudo{
     width: 40%;
     align-items: center;
+    font-size: 26px;
 }
 
 .escola-titulo{
     padding: 24px 0;
+    font-size: 26px;
     
 }
 .estudante{
