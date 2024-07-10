@@ -76,6 +76,7 @@
     justify-content: center;
     text-align: center;
     padding: 24px 0;
+    text-indent: 100px;
 }
 
 .estudante-titulo{
@@ -94,6 +95,7 @@
 }
 .estudante{
     padding: 24px 0;
+    text-indent: 100px;
 }
 .estudante-imagem{
     width: 120px;
@@ -105,5 +107,6 @@
 }
 .estudante-todos{
     justify-content:center;
-    text-align:center; 
+    text-align:center;
+    text-indent: 100px;
 }
