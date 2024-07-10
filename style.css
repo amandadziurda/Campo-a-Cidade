@@ -69,14 +69,14 @@
     padding: 24px 0;
     width: 70%;
     align-items: center;
-    text-indent: 100px;
+    text-indent: 25px;
 }
 
 .estudante-texto-um{
     justify-content: center;
     text-align: center;
     padding: 24px 0;
-    text-indent: 100px;
+    text-indent: 25px;
 }
 
 .estudante-titulo{
@@ -95,7 +95,7 @@
 }
 .estudante{
     padding: 24px 0;
-    text-indent: 100px;
+    text-indent: 25px;
 }
 .estudante-imagem{
     width: 120px;
@@ -108,5 +108,5 @@
 .estudante-todos{
     justify-content:center;
     text-align:center;
-    text-indent: 100px;
+    text-indent: 25px;
 }
