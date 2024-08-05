@@ -21,7 +21,7 @@ https://g1.globo.com/google/amp/pr/campos-gerais-sul/especial-publicitario/prefe
 
 Imagem de Londrina-Pr (londrina.jpg) disponível em: https://sites.uel.br/museu/
 
-Imagem de Turvo, Guarapuava, Prudentópolis (turvo.jpg) disponível em: 
+Imagem de Turvo, Guarapuava, Prudentópolis (saltosaofrancisco_004.jpg) disponível em: https://www.aen.pr.gov.br/Noticia/Com-mais-conforto-e-seguranca-Salto-Sao-Francisco-voltara-receber-turista
 
 Informações do texto de Turvo-PR, baseado em: https://www.viajeparana.com/Turvo
 
