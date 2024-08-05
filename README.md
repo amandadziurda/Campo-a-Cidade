@@ -34,6 +34,8 @@ https://www.guiadasemana.com.br/maringa/turismo/estabelecimento/catedral-basilic
 Imagem de Morretes  (morretes.jpg) disponível em:
 https://www.aen.pr.gov.br/Noticia/Por-causa-das-chuvas-Parque-Pico-Marumbi-e-fechado-para-visitacao
 
+Imagem de Guarapuava (guarapuava.jpg) disponível em: https://www.agraria.com.br/cultura
+
 Imagem de Tibagi  (tibagi.jpg) disponível em: https://www.sedest.pr.gov.br/Noticia/Parque-do-Guartela-e-uma-boa-opcao-para-aventureiros
 
 
