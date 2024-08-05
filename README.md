@@ -19,7 +19,7 @@ https://blog.nacionalinn.com.br/curitiba-uma-cidade-encantadora-e-seus-pontos-tu
 Imagem de Turvo-Pr (turvo.jpg) disponível em: 
 https://g1.globo.com/google/amp/pr/campos-gerais-sul/especial-publicitario/prefeitura-de-turvo/turvo-a-capital-dos-pinheirais/noticia/2023/08/02/descubra-as-maravilhas-naturais-de-turvo-aventura-e-beleza-em-um-so-lugar.ghtml
 
-Imagem de lONDRINA-Pr (turvo.jpg) disponível em: 
+Imagem de Londrina-Pr (turvo.jpg) disponível em: 
 
 Imagem de Turvo, Guarapuava, Prudentópolis (turvo.jpg) disponível em: 
 
