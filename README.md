@@ -28,6 +28,14 @@ Imagem de São Luiz do Purunã (são luiz do purunã .jpg) disponível em: https
 
 Informações do texto de São Luiz do Purunã, baseado em: https://retur.com.br/conheca-rotas-de-turismo-rural-no-parana/
 
+Imagem de Maringá (catedral-de-maringa.jpg) disponível em: 
+https://www.guiadasemana.com.br/maringa/turismo/estabelecimento/catedral-basilica-menor-nossa-senhora-da-gloria
+
+Imagem de Morretes  (morretes.jpg) disponível em:
+https://www.aen.pr.gov.br/Noticia/Por-causa-das-chuvas-Parque-Pico-Marumbi-e-fechado-para-visitacao
+
+Imagem de Tibagi  (tibagi.jpg) disponível em: https://www.sedest.pr.gov.br/Noticia/Parque-do-Guartela-e-uma-boa-opcao-para-aventureiros
+
 
 
 
